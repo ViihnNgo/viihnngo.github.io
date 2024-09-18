@@ -4,7 +4,7 @@
 		<title>My First Page</title>
 	</head>
 	<body>
-		<h1>Hello World!</h1>
+		<h1>Hello World! My name is, Vinh</h1>
 		<nav>
 			<a href="">Lab 1</a> |
 			<a href="">Lab 2</a> |
@@ -12,5 +12,6 @@
 		</nav>
 		<p>This is my test page.</p>
 		<p>I'm using it to test my uploads.</p>
+        <p>I am taking this class to learn Web Developement</p>
 	</body>
 </html>
