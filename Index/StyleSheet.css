@@ -1,0 +1,14 @@
+div {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    background-color: red;
+}
+
+span {
+    font-size: 30px;
+    font-weight: bold;
+}
+p {
+    color: red;
+}
