@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Quote</title>
+    </head>
+
+    <body>
+        <script>
+            // Assigned 5 quotes to variable quotes 
+            var quotes = ['"Be yourself; everyone else is already taken." - Oscar Wilde',
+            '"You must be the change you wish to see in the world." - Mahatma Ghandi',
+            '"The only impossible journey is the one you never begin." - Tony Robbins',
+            '"Everything you can imagine is real." - Pablo Picasso',
+            '"Believe you can, and youre halfway there." - Theodore Roosevelt'
+        ]
+            // Prompts user to enter any number 
+            var num = prompt("Please enter a number:");
+            // Divides user number by 5 and assigns leftover number to variable modularNumber
+            var modularNum = num % 5;
+            // Assigns modular number to assigned quote of the day array
+            var remainder = quotes[modularNum];
+            // Displays quote of the day from array depending on user number
+            document.write(remainder);
+
+            // <a href="https://Google.com" target= "_blank">Google</a>
+        </script>
+        
+    </body>
+</html>
