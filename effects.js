@@ -29,7 +29,7 @@ $(document).ready(function () {
         $("#signuplink").fadeTo("slow", 0.3); //Fades link to 30% opacity when done signing up
     });
 
-    });
+});
 
 });
 
