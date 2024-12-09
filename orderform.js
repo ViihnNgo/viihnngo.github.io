@@ -1,6 +1,6 @@
 $(document).ready(function () {
-    //Focuses on username
-    $('#username').focus();
+    //Focuses on name
+    $('#name').focus();
 
     //Form Validation
     function validateField(field, regex, errorMsg) {
